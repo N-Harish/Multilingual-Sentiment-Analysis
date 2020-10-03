@@ -1,0 +1,3 @@
+textblob
+streamlit
+googletrans==3.0.0
