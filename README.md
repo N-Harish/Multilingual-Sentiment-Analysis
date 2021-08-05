@@ -9,9 +9,9 @@
 ## Technology used
 * Streamlit (webapp)
 * Docker (deployment)
-* googletrans (translate text) <font color="yellow">Note:- this package doen't work currently</font>
+* googletrans (translate text) 
+  - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Note:- this package doen't work currently`
 * textblob (unsupervised sentiment analysis)
-
 
 ## Link
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]( https://share.streamlit.io/n-harish/multilingual-sentiment-analysis/trans.py )
