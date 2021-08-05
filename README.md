@@ -9,7 +9,7 @@
 ## Technology used
 * Streamlit (webapp)
 * Docker (deployment)
-* googletrans (translate text) (Note:- this package doen't work currently)
+* googletrans (translate text) <font color="yellow">Note:- this package doen't work currently</font>
 * textblob (unsupervised sentiment analysis)
 
 
